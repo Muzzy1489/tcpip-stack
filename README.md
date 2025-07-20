@@ -38,9 +38,12 @@ make
 ```
 
 ## Run
-
+In terminal instance 1
 ```
 ./test/server
+```
+In terminal instance 2
+```
 ./test/client
 ```
 
