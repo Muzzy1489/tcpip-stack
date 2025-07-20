@@ -9,7 +9,6 @@ tcpip/
 ├── include/
 │   ├── ip.h
 │   ├── tcp.h
-│   ├── socket.h
 │   └── network_sim.h
 ├── src/
 │   ├── ip.c
