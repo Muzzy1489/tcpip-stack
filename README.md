@@ -14,7 +14,6 @@ tcpip/
 ├── src/
 │   ├── ip.c
 │   ├── tcp.c
-│   ├── socket.c
 │   └── network_sim.c
 ├── test/
 │   ├── client.c
